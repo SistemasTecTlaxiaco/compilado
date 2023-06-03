@@ -66,7 +66,8 @@ Algunos de los metodos que podemos ejecutar son los siguientes
 ## Mockup de Figma 
 Abre este [enlace](https://www.figma.com/file/0U1rZKNSChDbLzHcicb2tx/sistema?type=design&node-id=0-1&t=62I1HZyTN7uITTlX-0) para la propuesta diseñada del observar de la Dapp del proyecto
 
-## Authors
+## Autores
+---
 -[ANGELES GONZÁLEZ MARTÍNEZ](https://github.com/ang3-l32)
 -[ALONSO ARICEL CORTES PACHECO](https://github.com/Aricel117)
 -[MANUEL LOPEZ REYES](https://github.com/MLR062998)
