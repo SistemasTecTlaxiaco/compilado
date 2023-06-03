@@ -68,9 +68,9 @@ Abre este [enlace](https://www.figma.com/file/0U1rZKNSChDbLzHcicb2tx/sistema?typ
 
 ## Autores
 ---
--[ANGELES GONZÁLEZ MARTÍNEZ](https://github.com/ang3-l32)
--[ALONSO ARICEL CORTES PACHECO](https://github.com/Aricel117)
--[MANUEL LOPEZ REYES](https://github.com/MLR062998)
--[KEVIN SÁNCHEZ HERNÁNDEZ](https://github.com/Kevinaleatorio)
+-[ANGELES GONZÁLEZ MARTÍNEZ](https://github.com/ang3-l32).
+-[ALONSO ARICEL CORTES PACHECO](https://github.com/Aricel117).
+-[MANUEL LOPEZ REYES](https://github.com/MLR062998).
+-[KEVIN SÁNCHEZ HERNÁNDEZ](https://github.com/Kevinaleatorio).
 
 
