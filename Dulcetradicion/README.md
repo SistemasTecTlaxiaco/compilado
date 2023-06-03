@@ -1,6 +1,7 @@
-# Bienvenido a Dulce tradicón 📖
+# Bienvenido a Dulce tradicón 
 ---
-OpenBooks es un smart contract que parte de la idea de que todo el conocimiento y la información debe ser libre para todos. Este proyecto permite a los usuarios publicar documentos, libros, etc. en un ambiente completamente descentralizado y así permitir a otros usuarios obtener los recursos facilmente sin tener que visitar cientos de páginas diferentes hasta conseguir el recurso que buscaban.
+Dulce Tradición es un smart contract que parte de la idea de que todo el conocimiento y la información debe ser libre para todos. Este proyecto permite a los usuarios publicar documentos, libros, etc. en un ambiente completamente descentralizado y así permitir a otros usuarios obtener los recursos facilmente sin tener que visitar cientos de páginas diferentes hasta conseguir el recurso que buscaban.
+
 Las funcionalidades principales del contrato son las siguientes:
 * Subir un libro (además, guarda el usuario de la persona que lo sube como "Contribuyente").
 * Obtener todos los libros.
@@ -62,11 +63,11 @@ Algunos de los metodos que podemos ejecutar son los siguientes
   near call dev-<tu numero de contrato> findContributor '{"contributorUser": "usuario.testnet"}' --accountId <tu_user.testnet>
     ```
 
-## Mockup de Figma 🎨📖
-Abre este [enlace](https://www.figma.com/file/3NKKf6JKrRXON8Q7yoFX1N/OpenBooks?node-id=0%3A1) para abrir la propuesta de diseño de la Dapp
+## Mockup de Figma 
+Abre este [enlace](https://www.figma.com/file/0U1rZKNSChDbLzHcicb2tx/sistema?type=design&node-id=0-1&t=62I1HZyTN7uITTlX-0) para la propuesta diseñada del observar de la Dapp del proyecto
 
 ## Authors
-ANGELES GONZÁLEZ MARTÍNEZ
-ALONSO ARICEL CORTES PACHECO
-KEVIN SÁNCHEZ HERNÁNDEZ
-MANUEL LOPEZ REYES
+	[ANGELES GONZÁLEZ MARTÍNEZ](https://github.com/ang3-l32)
+	[ALONSO ARICEL CORTES PACHECO](https://github.com/Aricel117)
+	[MANUEL LOPEZ REYES](https://github.com/MLR062998)
+	[KEVIN SÁNCHEZ HERNÁNDEZ](https://github.com/Kevinaleatorio)
